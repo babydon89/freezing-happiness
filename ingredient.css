@@ -1,0 +1,77 @@
+body{
+	background-image: url('https://dl.dropboxusercontent.com/u/17676181/backgroundpg2.png');
+	background-repeat: no-repeat;
+}
+html{
+	height: 768px;
+}
+#wrapper{
+	width: 1090px;
+	margin: 0px auto;
+	margin-top: 50px;
+}
+#leftside{
+	float: left;
+	background-image: url('https://dl.dropboxusercontent.com/u/17676181/Step1LeftBox.png');
+	background-repeat: no-repeat;
+	height: 618px;
+	width: 418px;
+}
+input{
+	background-image: url('https://dl.dropboxusercontent.com/u/17676181/Searchbar.png');
+	background-repeat: no-repeat;
+	background-color: transparent;
+	border-radius: 20px;
+	width: 61%;
+	height: 80px;
+	border: 0px;
+	padding-left: 10px;
+}
+textarea:focus, input:focus{
+    outline: 0;
+}
+#middle{
+	background-image: url('https://dl.dropboxusercontent.com/u/17676181/Step2.png');
+	background-repeat: no-repeat;
+	background-size: 150px;
+	position: relative;
+	float: left;
+	top: 583px;
+	right: 26%;
+	height: 69px;
+	width: 150px;
+}
+#middle:hover{
+	background-image: url('https://dl.dropboxusercontent.com/u/17676181/Step2Green.png');
+	background-repeat: no-repeat;
+	background-size: 150px;
+}
+#rightside{
+	float: left;
+	background-image: url('https://dl.dropboxusercontent.com/u/17676181/YourIngredientsRightBox.png');
+	background-repeat: no-repeat;
+	width: 642px;
+	margin-left: 1%;
+	position: relative;
+	right: 10%;
+	top: -70px;
+}
+#ingre-box{
+	margin-left: 30px;
+	margin-top: 78px;
+}
+#step3{
+	background-image: url('https://dl.dropboxusercontent.com/u/17676181/Step3.png');
+	background-size: 196px;
+	background-repeat: no-repeat;
+	width: 196px;
+	height: 200px;
+	float: left;
+	position: relative;
+	margin: 90% 0px 0px 65%;
+}
+#step3:hover{
+	background-image: url('https://dl.dropboxusercontent.com/u/17676181/Step3Green.png');
+	background-size: 196px;
+	background-repeat: no-repeat;
+}
